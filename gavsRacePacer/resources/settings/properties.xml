@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<properties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <!-- stored as total seconds per km; default 360 = 6:00/km -->
+    <property id="targetPace" type="number">390</property>
+    <property id="raceDistance" type="number">10000</property>
+</properties>

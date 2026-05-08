@@ -1,0 +1,213 @@
+{
+  "settings" : [ {
+    "key" : "targetPace",
+    "valueType" : "number",
+    "defaultValue" : 390,
+    "configTitle" : "TargetPaceTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal0$",
+      "value" : 210
+    }, {
+      "display" : "$literal1$",
+      "value" : 225
+    }, {
+      "display" : "$literal2$",
+      "value" : 240
+    }, {
+      "display" : "$literal3$",
+      "value" : 255
+    }, {
+      "display" : "$literal4$",
+      "value" : 270
+    }, {
+      "display" : "$literal5$",
+      "value" : 285
+    }, {
+      "display" : "$literal6$",
+      "value" : 300
+    }, {
+      "display" : "$literal7$",
+      "value" : 315
+    }, {
+      "display" : "$literal8$",
+      "value" : 330
+    }, {
+      "display" : "$literal9$",
+      "value" : 345
+    }, {
+      "display" : "$literal10$",
+      "value" : 360
+    }, {
+      "display" : "$literal11$",
+      "value" : 375
+    }, {
+      "display" : "$literal12$",
+      "value" : 390
+    }, {
+      "display" : "$literal13$",
+      "value" : 405
+    }, {
+      "display" : "$literal14$",
+      "value" : 420
+    }, {
+      "display" : "$literal15$",
+      "value" : 435
+    }, {
+      "display" : "$literal16$",
+      "value" : 450
+    }, {
+      "display" : "$literal17$",
+      "value" : 465
+    }, {
+      "display" : "$literal18$",
+      "value" : 480
+    }, {
+      "display" : "$literal19$",
+      "value" : 495
+    }, {
+      "display" : "$literal20$",
+      "value" : 510
+    }, {
+      "display" : "$literal21$",
+      "value" : 525
+    }, {
+      "display" : "$literal22$",
+      "value" : 540
+    }, {
+      "display" : "$literal23$",
+      "value" : 555
+    }, {
+      "display" : "$literal24$",
+      "value" : 570
+    }, {
+      "display" : "$literal25$",
+      "value" : 585
+    }, {
+      "display" : "$literal26$",
+      "value" : 600
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "raceDistance",
+    "valueType" : "number",
+    "defaultValue" : 10000,
+    "configTitle" : "RaceDistanceTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal27$",
+      "value" : 1000
+    }, {
+      "display" : "$literal28$",
+      "value" : 3000
+    }, {
+      "display" : "$literal29$",
+      "value" : 5000
+    }, {
+      "display" : "$literal30$",
+      "value" : 8000
+    }, {
+      "display" : "$literal31$",
+      "value" : 10000
+    }, {
+      "display" : "$literal32$",
+      "value" : 15000
+    }, {
+      "display" : "$literal33$",
+      "value" : 21097
+    }, {
+      "display" : "$literal34$",
+      "value" : 42195
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "pacing",
+    "valueType" : "number",
+    "defaultValue" : 1,
+    "configTitle" : "PacingTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "$literal35$",
+      "value" : 0
+    }, {
+      "display" : "$literal36$",
+      "value" : 1
+    }, {
+      "display" : "$literal37$",
+      "value" : 2
+    }, {
+      "display" : "$literal38$",
+      "value" : 3
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "valyrian" : {
+      "AppName" : "gavsRacePacer",
+      "TargetPaceTitle" : "Avg Target Pace (M:SS/km)",
+      "$literal26$" : "10:00",
+      "$literal0$" : "3:30",
+      "$literal16$" : "7:30",
+      "$literal38$" : "Neg 3%",
+      "$literal24$" : "9:30",
+      "$literal2$" : "4:00",
+      "$literal14$" : "7:00",
+      "$literal36$" : "Neg 1%",
+      "$literal4$" : "4:30",
+      "$literal28$" : "3 km",
+      "PacingTitle" : "Pacing Strategy",
+      "$literal6$" : "5:00",
+      "$literal18$" : "8:00",
+      "$literal8$" : "5:30",
+      "$literal30$" : "8 km",
+      "$literal22$" : "9:00",
+      "$literal12$" : "6:30",
+      "$literal34$" : "Marathon",
+      "$literal20$" : "8:30",
+      "$literal10$" : "6:00",
+      "$literal32$" : "15 km",
+      "RaceDistanceTitle" : "Race Distance",
+      "$literal1$" : "3:45",
+      "$literal15$" : "7:15",
+      "$literal37$" : "Neg 2%",
+      "$literal27$" : "1 km",
+      "$literal3$" : "4:15",
+      "$literal13$" : "6:45",
+      "$literal35$" : "Even",
+      "$literal25$" : "9:45",
+      "$literal5$" : "4:45",
+      "$literal19$" : "8:15",
+      "$literal7$" : "5:15",
+      "$literal17$" : "7:45",
+      "$literal29$" : "5 km",
+      "$literal9$" : "5:45",
+      "$literal11$" : "6:15",
+      "$literal33$" : "Half Marathon",
+      "$literal23$" : "9:15",
+      "$literal31$" : "10 km",
+      "$literal21$" : "8:45"
+    }
+  }
+}
