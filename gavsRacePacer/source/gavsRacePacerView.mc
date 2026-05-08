@@ -25,6 +25,7 @@ class gavsRacePacerView extends WatchUi.DataField {
     private var mLapStartTimeMs as Number = 0;
     private var mHeartRate as Number = 0;
     private var mCurrentLapTargetSecs as Number = 360; // target for the km we're currently in
+    private var mWorkoutTargetPaceLow  as Number = 0;  // fast end (sec/km) from workout step; 0 = none
 
     function initialize() {
         DataField.initialize();
@@ -116,7 +117,32 @@ class gavsRacePacerView extends WatchUi.DataField {
             mLapPaceSecs = garminRoundPace((lapTime.toFloat() / lapDist + 0.5f).toNumber());
         } else { mLapPaceSecs = 0; }
 
-        mCurrentLapTargetSecs = lapTarget((mDistanceM / 1000.0f).toNumber());
+        mWorkoutTargetPaceLow = 0;
+        try {
+            var stepInfo = Activity.getCurrentWorkoutStep();
+            if (stepInfo != null) {
+                var step = stepInfo.step;
+                if (step instanceof Activity.WorkoutIntervalStep) {
+                    step = (step as Activity.WorkoutIntervalStep).activeStep;
+                }
+                if (step instanceof Activity.WorkoutStep) {
+                    var ws = step as Activity.WorkoutStep;
+                    if (ws.targetType == Activity.WORKOUT_STEP_TARGET_SPEED &&
+                            ws.targetValueLow != null && ws.targetValueHigh != null) {
+                        var loF = ws.targetValueLow as Float;
+                        var hiF = ws.targetValueHigh as Float;
+                        if (loF > 0.001f && hiF > 0.001f) {
+                            mWorkoutTargetPaceLow = garminRoundPace((1000.0f / hiF + 0.5f).toNumber());
+                            mCurrentLapTargetSecs = ((1000.0f / loF + 1000.0f / hiF) / 2.0f + 0.5f).toNumber();
+                        }
+                    }
+                }
+            }
+        } catch (e instanceof Lang.Exception) {}
+
+        if (mWorkoutTargetPaceLow == 0) {
+            mCurrentLapTargetSecs = lapTarget((mDistanceM / 1000.0f).toNumber());
+        }
     }
 
     // -----------------------------------------------------------------------
@@ -151,7 +177,7 @@ class gavsRacePacerView extends WatchUi.DataField {
         dc.drawLine(0, r4y, w, r4y);
     }
 
-    // Row 1 — target pace for the current km
+    // Row 1 — workout step range when active, otherwise app-settings target
     private function drawRow1(dc as Graphics.Dc, y as Number, h as Number, w as Number, fg as Number) as Void {
         dc.setColor(fg, Graphics.COLOR_TRANSPARENT);
         var s = "TGT " + fmtPace(mCurrentLapTargetSecs);
@@ -170,10 +196,8 @@ class gavsRacePacerView extends WatchUi.DataField {
         var gTop     = y + (h - lH - gap - vH) / 2;
         var lY       = gTop + lH / 2;
         var vY       = gTop + lH + gap + vH / 2;
-        var tgt      = mCurrentLapTargetSecs;
-
         // LAP
-        dc.setColor(paceZoneColor(mLapPaceSecs, tgt), Graphics.COLOR_TRANSPARENT);
+        dc.setColor(paceZoneColor(mLapPaceSecs, mCurrentLapTargetSecs), Graphics.COLOR_TRANSPARENT);
         dc.fillRectangle(0, y, colW, h);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(colW / 2, lY, lFont, "LAP", Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
@@ -182,7 +206,7 @@ class gavsRacePacerView extends WatchUi.DataField {
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
         // PACE
-        dc.setColor(paceZoneColor(mCurrentPaceSecs, tgt), Graphics.COLOR_TRANSPARENT);
+        dc.setColor(paceZoneColor(mCurrentPaceSecs, mCurrentLapTargetSecs), Graphics.COLOR_TRANSPARENT);
         dc.fillRectangle(colW, y, colW, h);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(colW + colW / 2, lY, lFont, "PACE", Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
@@ -250,11 +274,14 @@ class gavsRacePacerView extends WatchUi.DataField {
     // -----------------------------------------------------------------------
 
     private function computeDelta() as Number {
-        var expected = targetTimeForDist(mDistanceM / 1000.0f);
+        var distKm = mDistanceM / 1000.0f;
+        var expected = (mWorkoutTargetPaceLow > 0)
+            ? mCurrentLapTargetSecs.toFloat() * distKm
+            : targetTimeForDist(distKm);
         return (expected - (mElapsedMs / 1000).toFloat()).toNumber();
     }
 
-    // Colour for PACE / LAP columns relative to the current km's target
+    // Colour for PACE / LAP columns relative to target.
     private function paceZoneColor(paceSecs as Number, targetSecs as Number) as Graphics.ColorType {
         if (paceSecs == 0 || targetSecs == 0) { return 0x00B050; }
         var diff = paceSecs - targetSecs;

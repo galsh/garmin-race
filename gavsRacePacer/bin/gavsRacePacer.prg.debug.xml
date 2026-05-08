@@ -17,300 +17,322 @@
 <entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerBackground.mc" id="8" lineNum="23" parent="globals/Background" pc="268435599" symbol="draw"/>
 <entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerBackground.mc" id="8" lineNum="24" parent="globals/Background" pc="268435601" symbol="draw"/>
 <entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerBackground.mc" id="8" lineNum="25" parent="globals/Background" pc="268435618" symbol="draw"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="60" parent="globals/gavsRacePacerView" pc="268435627" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="61" parent="globals/gavsRacePacerView" pc="268435630" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="62" parent="globals/gavsRacePacerView" pc="268435637" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="62" parent="globals/gavsRacePacerView" pc="268435656" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="63" parent="globals/gavsRacePacerView" pc="268435665" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="64" parent="globals/gavsRacePacerView" pc="268435695" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="295" parent="globals/gavsRacePacerView" pc="268435701" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="296" parent="globals/gavsRacePacerView" pc="268435703" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="296" parent="globals/gavsRacePacerView" pc="268435710" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="297" parent="globals/gavsRacePacerView" pc="268435719" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="212" parent="globals/gavsRacePacerView" pc="268435756" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="213" parent="globals/gavsRacePacerView" pc="268435759" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="214" parent="globals/gavsRacePacerView" pc="268435766" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="215" parent="globals/gavsRacePacerView" pc="268435769" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="216" parent="globals/gavsRacePacerView" pc="268435803" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="217" parent="globals/gavsRacePacerView" pc="268435816" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="218" parent="globals/gavsRacePacerView" pc="268435829" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="219" parent="globals/gavsRacePacerView" pc="268435833" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="220" parent="globals/gavsRacePacerView" pc="268435852" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="221" parent="globals/gavsRacePacerView" pc="268435862" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="223" parent="globals/gavsRacePacerView" pc="268435878" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="224" parent="globals/gavsRacePacerView" pc="268435892" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="226" parent="globals/gavsRacePacerView" pc="268435927" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="229" parent="globals/gavsRacePacerView" pc="268435953" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="231" parent="globals/gavsRacePacerView" pc="268436002" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="234" parent="globals/gavsRacePacerView" pc="268436031" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="235" parent="globals/gavsRacePacerView" pc="268436047" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="163" parent="globals/gavsRacePacerView" pc="268436069" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="164" parent="globals/gavsRacePacerView" pc="268436072" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="165" parent="globals/gavsRacePacerView" pc="268436079" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="166" parent="globals/gavsRacePacerView" pc="268436082" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="167" parent="globals/gavsRacePacerView" pc="268436108" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="168" parent="globals/gavsRacePacerView" pc="268436121" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="169" parent="globals/gavsRacePacerView" pc="268436134" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="170" parent="globals/gavsRacePacerView" pc="268436138" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="171" parent="globals/gavsRacePacerView" pc="268436157" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="172" parent="globals/gavsRacePacerView" pc="268436167" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="173" parent="globals/gavsRacePacerView" pc="268436183" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="176" parent="globals/gavsRacePacerView" pc="268436190" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="177" parent="globals/gavsRacePacerView" pc="268436217" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="178" parent="globals/gavsRacePacerView" pc="268436234" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="179" parent="globals/gavsRacePacerView" pc="268436251" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="180" parent="globals/gavsRacePacerView" pc="268436277" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="185" parent="globals/gavsRacePacerView" pc="268436330" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="186" parent="globals/gavsRacePacerView" pc="268436357" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="187" parent="globals/gavsRacePacerView" pc="268436375" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="188" parent="globals/gavsRacePacerView" pc="268436392" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="189" parent="globals/gavsRacePacerView" pc="268436421" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="194" parent="globals/gavsRacePacerView" pc="268436477" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="195" parent="globals/gavsRacePacerView" pc="268436485" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="196" parent="globals/gavsRacePacerView" pc="268436491" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="197" parent="globals/gavsRacePacerView" pc="268436520" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="198" parent="globals/gavsRacePacerView" pc="268436541" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="199" parent="globals/gavsRacePacerView" pc="268436554" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="202" parent="globals/gavsRacePacerView" pc="268436599" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="206" parent="globals/gavsRacePacerView" pc="268436649" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="207" parent="globals/gavsRacePacerView" pc="268436665" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="208" parent="globals/gavsRacePacerView" pc="268436686" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="239" parent="globals/gavsRacePacerView" pc="268436714" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="240" parent="globals/gavsRacePacerView" pc="268436716" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="241" parent="globals/gavsRacePacerView" pc="268436741" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="242" parent="globals/gavsRacePacerView" pc="268436758" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="243" parent="globals/gavsRacePacerView" pc="268436771" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="155" parent="globals/gavsRacePacerView" pc="268436835" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="156" parent="globals/gavsRacePacerView" pc="268436838" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="157" parent="globals/gavsRacePacerView" pc="268436852" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="158" parent="globals/gavsRacePacerView" pc="268436873" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="91" parent="globals/gavsRacePacerView" pc="268436904" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="92" parent="globals/gavsRacePacerView" pc="268436907" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="93" parent="globals/gavsRacePacerView" pc="268436945" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="94" parent="globals/gavsRacePacerView" pc="268436963" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="95" parent="globals/gavsRacePacerView" pc="268436981" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="96" parent="globals/gavsRacePacerView" pc="268436984" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="97" parent="globals/gavsRacePacerView" pc="268436987" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="98" parent="globals/gavsRacePacerView" pc="268436998" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="98" parent="globals/gavsRacePacerView" pc="268437015" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="98" parent="globals/gavsRacePacerView" pc="268437028" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="100" parent="globals/gavsRacePacerView" pc="268437048" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="101" parent="globals/gavsRacePacerView" pc="268437092" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="103" parent="globals/gavsRacePacerView" pc="268437100" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="103" parent="globals/gavsRacePacerView" pc="268437122" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="104" parent="globals/gavsRacePacerView" pc="268437139" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="104" parent="globals/gavsRacePacerView" pc="268437161" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="105" parent="globals/gavsRacePacerView" pc="268437178" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="105" parent="globals/gavsRacePacerView" pc="268437200" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="107" parent="globals/gavsRacePacerView" pc="268437217" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="108" parent="globals/gavsRacePacerView" pc="268437252" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="109" parent="globals/gavsRacePacerView" pc="268437263" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="110" parent="globals/gavsRacePacerView" pc="268437272" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="111" parent="globals/gavsRacePacerView" pc="268437284" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="113" parent="globals/gavsRacePacerView" pc="268437299" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="114" parent="globals/gavsRacePacerView" pc="268437312" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="115" parent="globals/gavsRacePacerView" pc="268437325" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="116" parent="globals/gavsRacePacerView" pc="268437343" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="117" parent="globals/gavsRacePacerView" pc="268437375" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="119" parent="globals/gavsRacePacerView" pc="268437383" symbol="compute"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="252" parent="globals/gavsRacePacerView" pc="268437416" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="253" parent="globals/gavsRacePacerView" pc="268437419" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="254" parent="globals/gavsRacePacerView" pc="268437440" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="266" parent="globals/gavsRacePacerView" pc="268437465" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="267" parent="globals/gavsRacePacerView" pc="268437468" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="267" parent="globals/gavsRacePacerView" pc="268437475" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="268" parent="globals/gavsRacePacerView" pc="268437484" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="269" parent="globals/gavsRacePacerView" pc="268437491" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="269" parent="globals/gavsRacePacerView" pc="268437511" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="270" parent="globals/gavsRacePacerView" pc="268437519" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="270" parent="globals/gavsRacePacerView" pc="268437530" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="271" parent="globals/gavsRacePacerView" pc="268437539" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="271" parent="globals/gavsRacePacerView" pc="268437550" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="272" parent="globals/gavsRacePacerView" pc="268437558" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="272" parent="globals/gavsRacePacerView" pc="268437569" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="273" parent="globals/gavsRacePacerView" pc="268437577" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="273" parent="globals/gavsRacePacerView" pc="268437588" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="274" parent="globals/gavsRacePacerView" pc="268437597" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="52" parent="globals/gavsRacePacerView" pc="268437603" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="53" parent="globals/gavsRacePacerView" pc="268437606" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="54" parent="globals/gavsRacePacerView" pc="268437620" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="55" parent="globals/gavsRacePacerView" pc="268437624" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="55" parent="globals/gavsRacePacerView" pc="268437635" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="56" parent="globals/gavsRacePacerView" pc="268437660" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="19" lineNum="89" parent="globals/gavsRacePacerView" pc="268437663" symbol="onLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="277" parent="globals/gavsRacePacerView" pc="268437666" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="278" parent="globals/gavsRacePacerView" pc="268437668" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="279" parent="globals/gavsRacePacerView" pc="268437688" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="280" parent="globals/gavsRacePacerView" pc="268437711" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="21" lineNum="312" parent="globals/gavsRacePacerView" pc="268437735" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="21" lineNum="313" parent="globals/gavsRacePacerView" pc="268437737" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="258" parent="globals/gavsRacePacerView" pc="268437774" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="259" parent="globals/gavsRacePacerView" pc="268437777" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="259" parent="globals/gavsRacePacerView" pc="268437791" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="260" parent="globals/gavsRacePacerView" pc="268437799" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="261" parent="globals/gavsRacePacerView" pc="268437806" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="261" parent="globals/gavsRacePacerView" pc="268437822" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="262" parent="globals/gavsRacePacerView" pc="268437831" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="262" parent="globals/gavsRacePacerView" pc="268437839" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="263" parent="globals/gavsRacePacerView" pc="268437847" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="34" parent="globals/gavsRacePacerView" pc="268437852" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="37" parent="globals/gavsRacePacerView" pc="268437855" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="38" parent="globals/gavsRacePacerView" pc="268437874" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="38" parent="globals/gavsRacePacerView" pc="268437896" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="40" parent="globals/gavsRacePacerView" pc="268437908" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="41" parent="globals/gavsRacePacerView" pc="268437927" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="41" parent="globals/gavsRacePacerView" pc="268437949" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="43" parent="globals/gavsRacePacerView" pc="268437961" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="44" parent="globals/gavsRacePacerView" pc="268437981" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="45" parent="globals/gavsRacePacerView" pc="268437994" symbol="loadSettings"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="283" parent="globals/gavsRacePacerView" pc="268438011" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="284" parent="globals/gavsRacePacerView" pc="268438014" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="287" parent="globals/gavsRacePacerView" pc="268438034" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="288" parent="globals/gavsRacePacerView" pc="268438050" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="289" parent="globals/gavsRacePacerView" pc="268438072" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="292" parent="globals/gavsRacePacerView" pc="268438091" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="69" parent="globals/gavsRacePacerView" pc="268438094" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="70" parent="globals/gavsRacePacerView" pc="268438097" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="71" parent="globals/gavsRacePacerView" pc="268438106" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="72" parent="globals/gavsRacePacerView" pc="268438118" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="73" parent="globals/gavsRacePacerView" pc="268438125" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="73" parent="globals/gavsRacePacerView" pc="268438131" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="74" parent="globals/gavsRacePacerView" pc="268438149" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="75" parent="globals/gavsRacePacerView" pc="268438161" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="76" parent="globals/gavsRacePacerView" pc="268438164" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="77" parent="globals/gavsRacePacerView" pc="268438184" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="77" parent="globals/gavsRacePacerView" pc="268438195" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="78" parent="globals/gavsRacePacerView" pc="268438221" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="79" parent="globals/gavsRacePacerView" pc="268438232" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="80" parent="globals/gavsRacePacerView" pc="268438254" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="82" parent="globals/gavsRacePacerView" pc="268438276" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="29" parent="globals/gavsRacePacerView" pc="268438279" symbol="initialize"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="30" parent="globals/gavsRacePacerView" pc="268438281" symbol="initialize"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="31" parent="globals/gavsRacePacerView" pc="268438293" symbol="initialize"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="300" parent="globals/gavsRacePacerView" pc="268438301" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="301" parent="globals/gavsRacePacerView" pc="268438304" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="302" parent="globals/gavsRacePacerView" pc="268438312" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="303" parent="globals/gavsRacePacerView" pc="268438319" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="304" parent="globals/gavsRacePacerView" pc="268438326" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="305" parent="globals/gavsRacePacerView" pc="268438334" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="306" parent="globals/gavsRacePacerView" pc="268438341" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="307" parent="globals/gavsRacePacerView" pc="268438348" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="309" parent="globals/gavsRacePacerView" pc="268438401" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="126" parent="globals/gavsRacePacerView" pc="268438430" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="127" parent="globals/gavsRacePacerView" pc="268438433" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="128" parent="globals/gavsRacePacerView" pc="268438442" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="129" parent="globals/gavsRacePacerView" pc="268438451" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="130" parent="globals/gavsRacePacerView" pc="268438459" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="132" parent="globals/gavsRacePacerView" pc="268438477" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="133" parent="globals/gavsRacePacerView" pc="268438491" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="135" parent="globals/gavsRacePacerView" pc="268438499" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="136" parent="globals/gavsRacePacerView" pc="268438509" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="137" parent="globals/gavsRacePacerView" pc="268438519" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="138" parent="globals/gavsRacePacerView" pc="268438529" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="139" parent="globals/gavsRacePacerView" pc="268438542" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="140" parent="globals/gavsRacePacerView" pc="268438546" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="141" parent="globals/gavsRacePacerView" pc="268438553" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="143" parent="globals/gavsRacePacerView" pc="268438563" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="144" parent="globals/gavsRacePacerView" pc="268438581" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="145" parent="globals/gavsRacePacerView" pc="268438598" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="146" parent="globals/gavsRacePacerView" pc="268438617" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="148" parent="globals/gavsRacePacerView" pc="268438634" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="149" parent="globals/gavsRacePacerView" pc="268438650" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="150" parent="globals/gavsRacePacerView" pc="268438667" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="151" parent="globals/gavsRacePacerView" pc="268438684" symbol="onUpdate"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="29" lineNum="13" parent="globals/gavsRacePacerApp" pc="268438702" symbol="onStart"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="30" lineNum="24" parent="globals/gavsRacePacerApp" pc="268438705" symbol="onSettingsChanged"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="30" lineNum="25" parent="globals/gavsRacePacerApp" pc="268438707" symbol="onSettingsChanged"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="30" lineNum="26" parent="globals/gavsRacePacerApp" pc="268438716" symbol="onSettingsChanged"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="30" lineNum="28" parent="globals/gavsRacePacerApp" pc="268438731" symbol="onSettingsChanged"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="19" parent="globals/gavsRacePacerApp" pc="268438743" symbol="getInitialView"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="20" parent="globals/gavsRacePacerApp" pc="268438745" symbol="getInitialView"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="21" parent="globals/gavsRacePacerApp" pc="268438770" symbol="getInitialView"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="32" lineNum="9" parent="globals/gavsRacePacerApp" pc="268438783" symbol="initialize"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="32" lineNum="10" parent="globals/gavsRacePacerApp" pc="268438785" symbol="initialize"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="33" lineNum="16" parent="globals/gavsRacePacerApp" pc="268438798" symbol="onStop"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="34" lineNum="57" parent="globals/Rez/Layouts" pc="268438801" symbol="BottomRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="34" lineNum="58" parent="globals/Rez/Layouts" pc="268438812" symbol="BottomRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="34" lineNum="60" parent="globals/Rez/Layouts" pc="268438836" symbol="BottomRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="34" lineNum="62" parent="globals/Rez/Layouts" pc="268438919" symbol="BottomRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="34" lineNum="64" parent="globals/Rez/Layouts" pc="268439002" symbol="BottomRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="37" parent="globals/Rez/Layouts" pc="268439022" symbol="TopRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="38" parent="globals/Rez/Layouts" pc="268439033" symbol="TopRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="40" parent="globals/Rez/Layouts" pc="268439057" symbol="TopRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="42" parent="globals/Rez/Layouts" pc="268439140" symbol="TopRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="44" parent="globals/Rez/Layouts" pc="268439223" symbol="TopRightLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="47" parent="globals/Rez/Layouts" pc="268439243" symbol="BottomLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="48" parent="globals/Rez/Layouts" pc="268439254" symbol="BottomLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="50" parent="globals/Rez/Layouts" pc="268439278" symbol="BottomLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="52" parent="globals/Rez/Layouts" pc="268439360" symbol="BottomLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="54" parent="globals/Rez/Layouts" pc="268439442" symbol="BottomLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="27" parent="globals/Rez/Layouts" pc="268439462" symbol="TopLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="28" parent="globals/Rez/Layouts" pc="268439473" symbol="TopLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="30" parent="globals/Rez/Layouts" pc="268439497" symbol="TopLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="32" parent="globals/Rez/Layouts" pc="268439579" symbol="TopLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="34" parent="globals/Rez/Layouts" pc="268439661" symbol="TopLeftLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="13" parent="globals/Rez/Layouts" pc="268439681" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="14" parent="globals/Rez/Layouts" pc="268439692" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="16" parent="globals/Rez/Layouts" pc="268439701" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="18" parent="globals/Rez/Layouts" pc="268439710" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="20" parent="globals/Rez/Layouts" pc="268439734" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="22" parent="globals/Rez/Layouts" pc="268439841" symbol="MainLayout"/>
-<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="24" parent="globals/Rez/Layouts" pc="268439948" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="61" parent="globals/gavsRacePacerView" pc="268435627" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="62" parent="globals/gavsRacePacerView" pc="268435630" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="63" parent="globals/gavsRacePacerView" pc="268435637" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="63" parent="globals/gavsRacePacerView" pc="268435656" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="64" parent="globals/gavsRacePacerView" pc="268435665" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="9" lineNum="65" parent="globals/gavsRacePacerView" pc="268435695" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="328" parent="globals/gavsRacePacerView" pc="268435701" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="329" parent="globals/gavsRacePacerView" pc="268435703" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="329" parent="globals/gavsRacePacerView" pc="268435710" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="10" lineNum="330" parent="globals/gavsRacePacerView" pc="268435719" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="236" parent="globals/gavsRacePacerView" pc="268435756" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="237" parent="globals/gavsRacePacerView" pc="268435759" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="238" parent="globals/gavsRacePacerView" pc="268435766" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="239" parent="globals/gavsRacePacerView" pc="268435769" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="240" parent="globals/gavsRacePacerView" pc="268435803" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="241" parent="globals/gavsRacePacerView" pc="268435816" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="242" parent="globals/gavsRacePacerView" pc="268435829" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="243" parent="globals/gavsRacePacerView" pc="268435833" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="244" parent="globals/gavsRacePacerView" pc="268435852" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="245" parent="globals/gavsRacePacerView" pc="268435862" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="247" parent="globals/gavsRacePacerView" pc="268435878" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="248" parent="globals/gavsRacePacerView" pc="268435892" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="250" parent="globals/gavsRacePacerView" pc="268435927" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="253" parent="globals/gavsRacePacerView" pc="268435953" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="255" parent="globals/gavsRacePacerView" pc="268436002" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="258" parent="globals/gavsRacePacerView" pc="268436031" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="11" lineNum="259" parent="globals/gavsRacePacerView" pc="268436047" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow3&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="189" parent="globals/gavsRacePacerView" pc="268436069" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="190" parent="globals/gavsRacePacerView" pc="268436072" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="191" parent="globals/gavsRacePacerView" pc="268436079" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="192" parent="globals/gavsRacePacerView" pc="268436082" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="193" parent="globals/gavsRacePacerView" pc="268436108" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="194" parent="globals/gavsRacePacerView" pc="268436121" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="195" parent="globals/gavsRacePacerView" pc="268436134" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="196" parent="globals/gavsRacePacerView" pc="268436138" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="197" parent="globals/gavsRacePacerView" pc="268436157" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="198" parent="globals/gavsRacePacerView" pc="268436167" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="200" parent="globals/gavsRacePacerView" pc="268436183" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="201" parent="globals/gavsRacePacerView" pc="268436213" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="202" parent="globals/gavsRacePacerView" pc="268436230" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="203" parent="globals/gavsRacePacerView" pc="268436247" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="204" parent="globals/gavsRacePacerView" pc="268436273" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="209" parent="globals/gavsRacePacerView" pc="268436326" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="210" parent="globals/gavsRacePacerView" pc="268436356" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="211" parent="globals/gavsRacePacerView" pc="268436374" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="212" parent="globals/gavsRacePacerView" pc="268436391" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="213" parent="globals/gavsRacePacerView" pc="268436420" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="218" parent="globals/gavsRacePacerView" pc="268436476" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="219" parent="globals/gavsRacePacerView" pc="268436484" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="220" parent="globals/gavsRacePacerView" pc="268436490" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="221" parent="globals/gavsRacePacerView" pc="268436519" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="222" parent="globals/gavsRacePacerView" pc="268436540" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="223" parent="globals/gavsRacePacerView" pc="268436553" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="226" parent="globals/gavsRacePacerView" pc="268436598" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="230" parent="globals/gavsRacePacerView" pc="268436648" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="231" parent="globals/gavsRacePacerView" pc="268436664" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="12" lineNum="232" parent="globals/gavsRacePacerView" pc="268436685" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="263" parent="globals/gavsRacePacerView" pc="268436713" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="264" parent="globals/gavsRacePacerView" pc="268436715" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="265" parent="globals/gavsRacePacerView" pc="268436740" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="266" parent="globals/gavsRacePacerView" pc="268436757" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="13" lineNum="267" parent="globals/gavsRacePacerView" pc="268436770" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="181" parent="globals/gavsRacePacerView" pc="268436834" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="182" parent="globals/gavsRacePacerView" pc="268436837" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="183" parent="globals/gavsRacePacerView" pc="268436851" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="14" lineNum="184" parent="globals/gavsRacePacerView" pc="268436872" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="92" parent="globals/gavsRacePacerView" pc="268436903" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="93" parent="globals/gavsRacePacerView" pc="268436906" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="94" parent="globals/gavsRacePacerView" pc="268436944" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="95" parent="globals/gavsRacePacerView" pc="268436962" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="96" parent="globals/gavsRacePacerView" pc="268436980" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="97" parent="globals/gavsRacePacerView" pc="268436983" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="98" parent="globals/gavsRacePacerView" pc="268436986" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="99" parent="globals/gavsRacePacerView" pc="268436997" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="99" parent="globals/gavsRacePacerView" pc="268437014" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="99" parent="globals/gavsRacePacerView" pc="268437027" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="101" parent="globals/gavsRacePacerView" pc="268437047" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="102" parent="globals/gavsRacePacerView" pc="268437099" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="104" parent="globals/gavsRacePacerView" pc="268437107" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="104" parent="globals/gavsRacePacerView" pc="268437129" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="105" parent="globals/gavsRacePacerView" pc="268437146" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="105" parent="globals/gavsRacePacerView" pc="268437168" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="106" parent="globals/gavsRacePacerView" pc="268437185" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="106" parent="globals/gavsRacePacerView" pc="268437207" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="108" parent="globals/gavsRacePacerView" pc="268437224" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="109" parent="globals/gavsRacePacerView" pc="268437259" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="110" parent="globals/gavsRacePacerView" pc="268437270" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="111" parent="globals/gavsRacePacerView" pc="268437279" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="112" parent="globals/gavsRacePacerView" pc="268437291" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="114" parent="globals/gavsRacePacerView" pc="268437306" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="115" parent="globals/gavsRacePacerView" pc="268437319" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="116" parent="globals/gavsRacePacerView" pc="268437332" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="117" parent="globals/gavsRacePacerView" pc="268437350" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="118" parent="globals/gavsRacePacerView" pc="268437390" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="120" parent="globals/gavsRacePacerView" pc="268437398" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="122" parent="globals/gavsRacePacerView" pc="268437406" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="123" parent="globals/gavsRacePacerView" pc="268437418" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="124" parent="globals/gavsRacePacerView" pc="268437424" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="125" parent="globals/gavsRacePacerView" pc="268437433" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="126" parent="globals/gavsRacePacerView" pc="268437448" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="128" parent="globals/gavsRacePacerView" pc="268437460" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="129" parent="globals/gavsRacePacerView" pc="268437475" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="130" parent="globals/gavsRacePacerView" pc="268437479" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="132" parent="globals/gavsRacePacerView" pc="268437510" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="133" parent="globals/gavsRacePacerView" pc="268437518" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="134" parent="globals/gavsRacePacerView" pc="268437526" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="135" parent="globals/gavsRacePacerView" pc="268437548" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="136" parent="globals/gavsRacePacerView" pc="268437583" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="141" parent="globals/gavsRacePacerView" pc="268437643" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="143" parent="globals/gavsRacePacerView" pc="268437674" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="15" lineNum="144" parent="globals/gavsRacePacerView" pc="268437684" symbol="compute"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="276" parent="globals/gavsRacePacerView" pc="268437720" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="277" parent="globals/gavsRacePacerView" pc="268437723" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="278" parent="globals/gavsRacePacerView" pc="268437736" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="16" lineNum="281" parent="globals/gavsRacePacerView" pc="268437775" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="293" parent="globals/gavsRacePacerView" pc="268437800" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="294" parent="globals/gavsRacePacerView" pc="268437803" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="294" parent="globals/gavsRacePacerView" pc="268437810" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="295" parent="globals/gavsRacePacerView" pc="268437819" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="296" parent="globals/gavsRacePacerView" pc="268437826" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="296" parent="globals/gavsRacePacerView" pc="268437846" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="297" parent="globals/gavsRacePacerView" pc="268437854" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="297" parent="globals/gavsRacePacerView" pc="268437865" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="298" parent="globals/gavsRacePacerView" pc="268437874" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="298" parent="globals/gavsRacePacerView" pc="268437885" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="299" parent="globals/gavsRacePacerView" pc="268437893" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="299" parent="globals/gavsRacePacerView" pc="268437904" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="300" parent="globals/gavsRacePacerView" pc="268437912" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="300" parent="globals/gavsRacePacerView" pc="268437923" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="17" lineNum="301" parent="globals/gavsRacePacerView" pc="268437932" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="53" parent="globals/gavsRacePacerView" pc="268437938" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="54" parent="globals/gavsRacePacerView" pc="268437941" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="55" parent="globals/gavsRacePacerView" pc="268437955" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="56" parent="globals/gavsRacePacerView" pc="268437959" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="56" parent="globals/gavsRacePacerView" pc="268437970" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="18" lineNum="57" parent="globals/gavsRacePacerView" pc="268437995" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="19" lineNum="90" parent="globals/gavsRacePacerView" pc="268437998" symbol="onLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="304" parent="globals/gavsRacePacerView" pc="268438001" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="305" parent="globals/gavsRacePacerView" pc="268438003" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="306" parent="globals/gavsRacePacerView" pc="268438023" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="20" lineNum="307" parent="globals/gavsRacePacerView" pc="268438046" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="21" lineNum="345" parent="globals/gavsRacePacerView" pc="268438070" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="21" lineNum="346" parent="globals/gavsRacePacerView" pc="268438072" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="323" parent="globals/gavsRacePacerView" pc="268438109" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="324" parent="globals/gavsRacePacerView" pc="268438111" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="324" parent="globals/gavsRacePacerView" pc="268438118" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="22" lineNum="325" parent="globals/gavsRacePacerView" pc="268438124" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="285" parent="globals/gavsRacePacerView" pc="268438136" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="286" parent="globals/gavsRacePacerView" pc="268438139" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="286" parent="globals/gavsRacePacerView" pc="268438153" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="287" parent="globals/gavsRacePacerView" pc="268438161" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="288" parent="globals/gavsRacePacerView" pc="268438168" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="288" parent="globals/gavsRacePacerView" pc="268438184" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="289" parent="globals/gavsRacePacerView" pc="268438193" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="289" parent="globals/gavsRacePacerView" pc="268438201" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="23" lineNum="290" parent="globals/gavsRacePacerView" pc="268438209" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="35" parent="globals/gavsRacePacerView" pc="268438214" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="38" parent="globals/gavsRacePacerView" pc="268438217" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="39" parent="globals/gavsRacePacerView" pc="268438236" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="39" parent="globals/gavsRacePacerView" pc="268438258" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="41" parent="globals/gavsRacePacerView" pc="268438270" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="42" parent="globals/gavsRacePacerView" pc="268438289" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="42" parent="globals/gavsRacePacerView" pc="268438311" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="44" parent="globals/gavsRacePacerView" pc="268438323" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="45" parent="globals/gavsRacePacerView" pc="268438343" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="24" lineNum="46" parent="globals/gavsRacePacerView" pc="268438356" symbol="loadSettings"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="310" parent="globals/gavsRacePacerView" pc="268438373" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="311" parent="globals/gavsRacePacerView" pc="268438376" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="314" parent="globals/gavsRacePacerView" pc="268438396" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="315" parent="globals/gavsRacePacerView" pc="268438412" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="316" parent="globals/gavsRacePacerView" pc="268438434" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="25" lineNum="319" parent="globals/gavsRacePacerView" pc="268438453" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="70" parent="globals/gavsRacePacerView" pc="268438456" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="71" parent="globals/gavsRacePacerView" pc="268438459" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="72" parent="globals/gavsRacePacerView" pc="268438468" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="73" parent="globals/gavsRacePacerView" pc="268438480" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="74" parent="globals/gavsRacePacerView" pc="268438487" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="74" parent="globals/gavsRacePacerView" pc="268438493" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="75" parent="globals/gavsRacePacerView" pc="268438511" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="76" parent="globals/gavsRacePacerView" pc="268438523" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="77" parent="globals/gavsRacePacerView" pc="268438526" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="78" parent="globals/gavsRacePacerView" pc="268438546" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="78" parent="globals/gavsRacePacerView" pc="268438557" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="79" parent="globals/gavsRacePacerView" pc="268438583" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="80" parent="globals/gavsRacePacerView" pc="268438594" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="81" parent="globals/gavsRacePacerView" pc="268438616" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="26" lineNum="83" parent="globals/gavsRacePacerView" pc="268438638" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="30" parent="globals/gavsRacePacerView" pc="268438641" symbol="initialize"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="31" parent="globals/gavsRacePacerView" pc="268438643" symbol="initialize"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="27" lineNum="32" parent="globals/gavsRacePacerView" pc="268438655" symbol="initialize"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="333" parent="globals/gavsRacePacerView" pc="268438663" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="334" parent="globals/gavsRacePacerView" pc="268438666" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="335" parent="globals/gavsRacePacerView" pc="268438674" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="336" parent="globals/gavsRacePacerView" pc="268438681" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="337" parent="globals/gavsRacePacerView" pc="268438688" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="338" parent="globals/gavsRacePacerView" pc="268438696" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="339" parent="globals/gavsRacePacerView" pc="268438703" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="340" parent="globals/gavsRacePacerView" pc="268438710" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="28" lineNum="342" parent="globals/gavsRacePacerView" pc="268438763" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="152" parent="globals/gavsRacePacerView" pc="268438792" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="153" parent="globals/gavsRacePacerView" pc="268438795" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="154" parent="globals/gavsRacePacerView" pc="268438804" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="155" parent="globals/gavsRacePacerView" pc="268438813" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="156" parent="globals/gavsRacePacerView" pc="268438821" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="158" parent="globals/gavsRacePacerView" pc="268438839" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="159" parent="globals/gavsRacePacerView" pc="268438853" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="161" parent="globals/gavsRacePacerView" pc="268438861" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="162" parent="globals/gavsRacePacerView" pc="268438871" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="163" parent="globals/gavsRacePacerView" pc="268438881" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="164" parent="globals/gavsRacePacerView" pc="268438891" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="165" parent="globals/gavsRacePacerView" pc="268438904" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="166" parent="globals/gavsRacePacerView" pc="268438908" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="167" parent="globals/gavsRacePacerView" pc="268438915" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="169" parent="globals/gavsRacePacerView" pc="268438925" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="170" parent="globals/gavsRacePacerView" pc="268438943" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="171" parent="globals/gavsRacePacerView" pc="268438960" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="172" parent="globals/gavsRacePacerView" pc="268438979" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="174" parent="globals/gavsRacePacerView" pc="268438996" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="175" parent="globals/gavsRacePacerView" pc="268439012" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="176" parent="globals/gavsRacePacerView" pc="268439029" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerView.mc" id="29" lineNum="177" parent="globals/gavsRacePacerView" pc="268439046" symbol="onUpdate"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="30" lineNum="13" parent="globals/gavsRacePacerApp" pc="268439064" symbol="onStart"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="24" parent="globals/gavsRacePacerApp" pc="268439067" symbol="onSettingsChanged"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="25" parent="globals/gavsRacePacerApp" pc="268439069" symbol="onSettingsChanged"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="26" parent="globals/gavsRacePacerApp" pc="268439078" symbol="onSettingsChanged"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="31" lineNum="28" parent="globals/gavsRacePacerApp" pc="268439093" symbol="onSettingsChanged"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="32" lineNum="19" parent="globals/gavsRacePacerApp" pc="268439105" symbol="getInitialView"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="32" lineNum="20" parent="globals/gavsRacePacerApp" pc="268439107" symbol="getInitialView"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="32" lineNum="21" parent="globals/gavsRacePacerApp" pc="268439132" symbol="getInitialView"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="33" lineNum="9" parent="globals/gavsRacePacerApp" pc="268439145" symbol="initialize"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="33" lineNum="10" parent="globals/gavsRacePacerApp" pc="268439147" symbol="initialize"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/source/gavsRacePacerApp.mc" id="34" lineNum="16" parent="globals/gavsRacePacerApp" pc="268439160" symbol="onStop"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="57" parent="globals/Rez/Layouts" pc="268439163" symbol="BottomRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="58" parent="globals/Rez/Layouts" pc="268439174" symbol="BottomRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="60" parent="globals/Rez/Layouts" pc="268439198" symbol="BottomRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="62" parent="globals/Rez/Layouts" pc="268439281" symbol="BottomRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="35" lineNum="64" parent="globals/Rez/Layouts" pc="268439364" symbol="BottomRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="37" parent="globals/Rez/Layouts" pc="268439384" symbol="TopRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="38" parent="globals/Rez/Layouts" pc="268439395" symbol="TopRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="40" parent="globals/Rez/Layouts" pc="268439419" symbol="TopRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="42" parent="globals/Rez/Layouts" pc="268439502" symbol="TopRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="36" lineNum="44" parent="globals/Rez/Layouts" pc="268439585" symbol="TopRightLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="47" parent="globals/Rez/Layouts" pc="268439605" symbol="BottomLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="48" parent="globals/Rez/Layouts" pc="268439616" symbol="BottomLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="50" parent="globals/Rez/Layouts" pc="268439640" symbol="BottomLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="52" parent="globals/Rez/Layouts" pc="268439722" symbol="BottomLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="37" lineNum="54" parent="globals/Rez/Layouts" pc="268439804" symbol="BottomLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="27" parent="globals/Rez/Layouts" pc="268439824" symbol="TopLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="28" parent="globals/Rez/Layouts" pc="268439835" symbol="TopLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="30" parent="globals/Rez/Layouts" pc="268439859" symbol="TopLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="32" parent="globals/Rez/Layouts" pc="268439941" symbol="TopLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="38" lineNum="34" parent="globals/Rez/Layouts" pc="268440023" symbol="TopLeftLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="13" parent="globals/Rez/Layouts" pc="268440043" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="14" parent="globals/Rez/Layouts" pc="268440054" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="16" parent="globals/Rez/Layouts" pc="268440063" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="18" parent="globals/Rez/Layouts" pc="268440072" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="20" parent="globals/Rez/Layouts" pc="268440096" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="22" parent="globals/Rez/Layouts" pc="268440203" symbol="MainLayout"/>
+<entry filename="/Users/walsh@talon.one/Documents/projects/garmin-race/gavsRacePacer/bin/gen/006-B4426-00/source/Rez.mcgen" id="39" lineNum="24" parent="globals/Rez/Layouts" pc="268440310" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-<entry id="44" method="true" symbol="MainLayout"/>
-<entry field="true" id="31" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLastLapCount&gt;"/>
-<entry field="true" id="29" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapStartTimeMs&gt;"/>
+<entry id="46" method="true" symbol="MainLayout"/>
+<entry field="true" id="32" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLastLapCount&gt;"/>
+<entry field="true" id="30" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapStartTimeMs&gt;"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry id="8" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;"/>
-<entry field="true" id="35" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mTargetPaceSecs&gt;"/>
+<entry field="true" id="36" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mTargetPaceSecs&gt;"/>
+<entry field="true" id="37" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mWorkoutTargetPaceLow&gt;"/>
 <entry id="8388647" module="true" symbol="UserProfile"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry id="18" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
-<entry id="50" symbol="lapCount"/>
-<entry field="true" id="24" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mElapsedMs&gt;"/>
+<entry id="19" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;"/>
+<entry id="52" symbol="lapCount"/>
+<entry field="true" id="25" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mElapsedMs&gt;"/>
 <entry id="15" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtPace&gt;"/>
-<entry field="true" id="47" symbol="AppName"/>
+<entry field="true" id="49" symbol="AppName"/>
 <entry id="5" module="true" symbol="globals/Rez/Strings"/>
-<entry id="38" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
+<entry id="40" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;"/>
 <entry id="8388631" module="true" symbol="Activity"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry field="true" id="25" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mHeartRate&gt;"/>
-<entry field="true" id="49" symbol="TargetPaceTitle"/>
+<entry field="true" id="26" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mHeartRate&gt;"/>
+<entry field="true" id="51" symbol="TargetPaceTitle"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="27" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapPaceSecs&gt;"/>
+<entry field="true" id="28" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapPaceSecs&gt;"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry field="true" id="8388738" symbol="currentSpeed"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="19" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
+<entry id="20" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;lapTarget&gt;"/>
 <entry id="8389137" method="true" symbol="compute"/>
-<entry field="true" id="34" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mSpeedIdx&gt;"/>
-<entry field="true" id="48" symbol="RaceDistanceTitle"/>
+<entry field="true" id="35" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mSpeedIdx&gt;"/>
+<entry field="true" id="50" symbol="RaceDistanceTitle"/>
 <entry id="8389131" method="true" symbol="setColor"/>
 <entry id="17" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;"/>
-<entry id="36" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
-<entry field="true" id="40" symbol="&lt;globals/gavsRacePacerApp/&lt;&gt;mView&gt;"/>
+<entry id="38" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;"/>
+<entry field="true" id="42" symbol="&lt;globals/gavsRacePacerApp/&lt;&gt;mView&gt;"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry field="true" id="32" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mRaceDistanceM&gt;"/>
-<entry id="45" method="true" symbol="TopLeftLayout"/>
-<entry field="true" id="23" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mDistanceM&gt;"/>
+<entry field="true" id="33" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mRaceDistanceM&gt;"/>
+<entry id="47" method="true" symbol="TopLeftLayout"/>
+<entry field="true" id="24" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mDistanceM&gt;"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry id="42" method="true" symbol="BottomLeftLayout"/>
-<entry id="43" method="true" symbol="BottomRightLayout"/>
+<entry id="44" method="true" symbol="BottomLeftLayout"/>
+<entry id="18" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;"/>
+<entry id="45" method="true" symbol="BottomRightLayout"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry field="true" id="8389130" symbol="mColor"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="41" symbol="LauncherIcon"/>
+<entry field="true" id="43" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389350" module="true" symbol="globals"/>
 <entry id="16" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;"/>
@@ -330,19 +352,19 @@
 <entry field="true" id="8389347" symbol="color"/>
 <entry field="true" id="8388732" symbol="elapsedTime"/>
 <entry id="6" object="true" symbol="gavsRacePacerApp"/>
-<entry id="33" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mSpeedBuf&gt;"/>
+<entry id="34" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mSpeedBuf&gt;"/>
 <entry field="true" id="8388734" symbol="elapsedDistance"/>
-<entry field="true" id="30" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapTargetPaces&gt;"/>
-<entry field="true" id="28" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapStartDistanceM&gt;"/>
-<entry id="39" module="true" symbol="Layouts"/>
-<entry id="37" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
-<entry id="20" method="true" symbol="loadSettings"/>
+<entry field="true" id="31" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapTargetPaces&gt;"/>
+<entry field="true" id="29" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mLapStartDistanceM&gt;"/>
+<entry id="41" module="true" symbol="Layouts"/>
+<entry id="39" method="true" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;"/>
+<entry id="21" method="true" symbol="loadSettings"/>
 <entry id="7" object="true" symbol="gavsRacePacerView"/>
-<entry field="true" id="26" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mHrZones&gt;"/>
-<entry field="true" id="22" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mCurrentPaceSecs&gt;"/>
+<entry field="true" id="27" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mHrZones&gt;"/>
+<entry field="true" id="23" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mCurrentPaceSecs&gt;"/>
 <entry id="8388635" module="true" symbol="Application"/>
-<entry field="true" id="21" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mCurrentLapTargetSecs&gt;"/>
-<entry id="46" method="true" symbol="TopRightLayout"/>
+<entry field="true" id="22" symbol="&lt;globals/gavsRacePacerView/&lt;&gt;mCurrentLapTargetSecs&gt;"/>
+<entry id="48" method="true" symbol="TopRightLayout"/>
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268435548" name="color" stackId="1" startPc="268435537"/>
@@ -366,110 +388,117 @@
 <entry endPc="268436067" name="gTop" stackId="12" startPc="268435759"/>
 <entry endPc="268436067" name="vY" stackId="13" startPc="268435759"/>
 <entry endPc="268436067" name="lY" stackId="14" startPc="268435759"/>
-<entry arg="true" endPc="268436713" name="dc" stackId="1" startPc="268436069"/>
-<entry arg="true" endPc="268436713" name="y" stackId="2" startPc="268436069"/>
-<entry arg="true" endPc="268436713" name="h" stackId="3" startPc="268436069"/>
-<entry arg="true" endPc="268436713" name="w" stackId="4" startPc="268436069"/>
-<entry endPc="268436712" name="colW" stackId="5" startPc="268436072"/>
-<entry endPc="268436712" name="lFont" stackId="6" startPc="268436072"/>
-<entry endPc="268436712" name="vFont" stackId="7" startPc="268436072"/>
-<entry endPc="268436712" name="lH" stackId="8" startPc="268436072"/>
-<entry endPc="268436712" name="vH" stackId="9" startPc="268436072"/>
-<entry endPc="268436712" name="gap" stackId="10" startPc="268436072"/>
-<entry endPc="268436712" name="gTop" stackId="11" startPc="268436072"/>
-<entry endPc="268436712" name="lY" stackId="12" startPc="268436072"/>
-<entry endPc="268436712" name="vY" stackId="13" startPc="268436072"/>
-<entry endPc="268436712" name="tgt" stackId="14" startPc="268436072"/>
-<entry endPc="268436712" name="delta" stackId="15" startPc="268436072"/>
-<entry endPc="268436712" name="isAhead" stackId="16" startPc="268436072"/>
-<entry arg="true" endPc="268436834" name="dc" stackId="1" startPc="268436714"/>
-<entry arg="true" endPc="268436834" name="y" stackId="2" startPc="268436714"/>
-<entry arg="true" endPc="268436834" name="h" stackId="3" startPc="268436714"/>
-<entry arg="true" endPc="268436834" name="w" stackId="4" startPc="268436714"/>
-<entry arg="true" endPc="268436903" name="dc" stackId="1" startPc="268436835"/>
-<entry arg="true" endPc="268436903" name="y" stackId="2" startPc="268436835"/>
-<entry arg="true" endPc="268436903" name="h" stackId="3" startPc="268436835"/>
-<entry arg="true" endPc="268436903" name="w" stackId="4" startPc="268436835"/>
-<entry arg="true" endPc="268436903" name="fg" stackId="5" startPc="268436835"/>
-<entry endPc="268436902" name="s" stackId="6" startPc="268436838"/>
-<entry arg="true" endPc="268437415" name="info" stackId="1" startPc="268436904"/>
-<entry endPc="268437088" name="sum" stackId="2" startPc="268436945"/>
-<entry endPc="268437088" name="count" stackId="3" startPc="268436945"/>
-<entry endPc="268437047" name="i" stackId="4" startPc="268436998"/>
-<entry endPc="268437414" name="lapCount" stackId="5" startPc="268436907"/>
-<entry endPc="268437414" name="lapDist" stackId="6" startPc="268436907"/>
-<entry endPc="268437414" name="lapTime" stackId="7" startPc="268436907"/>
-<entry endPc="268437464" name="expected" stackId="1" startPc="268437419"/>
-<entry arg="true" endPc="268437602" name="hr" stackId="1" startPc="268437465"/>
-<entry endPc="268437602" name="z" stackId="2" startPc="268437468"/>
-<entry endPc="268437662" name="numLaps" stackId="1" startPc="268437606"/>
-<entry endPc="268437662" name="paces" stackId="2" startPc="268437606"/>
-<entry endPc="268437659" name="i" stackId="3" startPc="268437635"/>
-<entry arg="true" endPc="268437734" name="dc" stackId="1" startPc="268437666"/>
-<entry arg="true" endPc="268437734" name="x" stackId="2" startPc="268437666"/>
-<entry arg="true" endPc="268437734" name="y" stackId="3" startPc="268437666"/>
-<entry arg="true" endPc="268437734" name="font" stackId="4" startPc="268437666"/>
-<entry arg="true" endPc="268437734" name="text" stackId="5" startPc="268437666"/>
-<entry arg="true" endPc="268437734" name="justify" stackId="6" startPc="268437666"/>
-<entry arg="true" endPc="268437773" name="secs" stackId="1" startPc="268437735"/>
-<entry arg="true" endPc="268437851" name="paceSecs" stackId="1" startPc="268437774"/>
-<entry arg="true" endPc="268437851" name="targetSecs" stackId="2" startPc="268437774"/>
-<entry endPc="268437851" name="diff" stackId="3" startPc="268437777"/>
-<entry endPc="268438009" name="v" stackId="1" startPc="268437855"/>
-<entry arg="true" endPc="268438093" name="dc" stackId="1" startPc="268438011"/>
-<entry arg="true" endPc="268438093" name="text" stackId="2" startPc="268438011"/>
-<entry arg="true" endPc="268438093" name="maxW" stackId="3" startPc="268438011"/>
-<entry arg="true" endPc="268438093" name="isNumber" stackId="4" startPc="268438011"/>
-<entry endPc="268438093" name="fonts" stackId="5" startPc="268438014"/>
-<entry endPc="268438090" name="i" stackId="6" startPc="268438050"/>
-<entry arg="true" endPc="268438278" name="distKm" stackId="1" startPc="268438094"/>
-<entry endPc="268438278" name="fullLaps" stackId="2" startPc="268438097"/>
-<entry endPc="268438278" name="partial" stackId="3" startPc="268438097"/>
-<entry endPc="268438278" name="laps" stackId="4" startPc="268438097"/>
-<entry endPc="268438278" name="maxIdx" stackId="5" startPc="268438097"/>
-<entry endPc="268438278" name="total" stackId="6" startPc="268438097"/>
-<entry endPc="268438278" name="limit" stackId="7" startPc="268438097"/>
-<entry endPc="268438220" name="i" stackId="8" startPc="268438195"/>
-<entry endPc="268438272" name="li" stackId="9" startPc="268438232"/>
-<entry arg="true" endPc="268438429" name="ms" stackId="1" startPc="268438301"/>
-<entry endPc="268438429" name="totalS" stackId="2" startPc="268438304"/>
-<entry endPc="268438429" name="m" stackId="3" startPc="268438304"/>
-<entry endPc="268438429" name="s" stackId="4" startPc="268438304"/>
-<entry endPc="268438397" name="hrs" stackId="5" startPc="268438334"/>
-<entry arg="true" endPc="268438701" name="dc" stackId="1" startPc="268438430"/>
-<entry endPc="268438700" name="w" stackId="2" startPc="268438433"/>
-<entry endPc="268438700" name="h" stackId="3" startPc="268438433"/>
-<entry endPc="268438700" name="bg" stackId="4" startPc="268438433"/>
-<entry endPc="268438700" name="fg" stackId="5" startPc="268438433"/>
-<entry endPc="268438700" name="r1h" stackId="6" startPc="268438433"/>
-<entry endPc="268438700" name="r2h" stackId="7" startPc="268438433"/>
-<entry endPc="268438700" name="r3h" stackId="8" startPc="268438433"/>
-<entry endPc="268438700" name="r4h" stackId="9" startPc="268438433"/>
-<entry endPc="268438700" name="r2y" stackId="10" startPc="268438433"/>
-<entry endPc="268438700" name="r3y" stackId="11" startPc="268438433"/>
-<entry endPc="268438700" name="r4y" stackId="12" startPc="268438433"/>
-<entry arg="true" endPc="268439021" name="dc" stackId="1" startPc="268438801"/>
-<entry endPc="268439021" name="rez_cmp_local_custom_drawable_16187860511068497434" stackId="2" startPc="268438812"/>
-<entry endPc="268439021" name="rez_cmp_local_text_label" stackId="3" startPc="268438812"/>
-<entry endPc="268439021" name="rez_cmp_local_text_value" stackId="4" startPc="268438812"/>
-<entry arg="true" endPc="268439242" name="dc" stackId="1" startPc="268439022"/>
-<entry endPc="268439242" name="rez_cmp_local_custom_drawable_11824933295158922413" stackId="2" startPc="268439033"/>
-<entry endPc="268439242" name="rez_cmp_local_text_label" stackId="3" startPc="268439033"/>
-<entry endPc="268439242" name="rez_cmp_local_text_value" stackId="4" startPc="268439033"/>
-<entry arg="true" endPc="268439461" name="dc" stackId="1" startPc="268439243"/>
-<entry endPc="268439461" name="rez_cmp_local_custom_drawable_16380678501279751870" stackId="2" startPc="268439254"/>
-<entry endPc="268439461" name="rez_cmp_local_text_label" stackId="3" startPc="268439254"/>
-<entry endPc="268439461" name="rez_cmp_local_text_value" stackId="4" startPc="268439254"/>
-<entry arg="true" endPc="268439680" name="dc" stackId="1" startPc="268439462"/>
-<entry endPc="268439680" name="rez_cmp_local_custom_drawable_83741574912206153191" stackId="2" startPc="268439473"/>
-<entry endPc="268439680" name="rez_cmp_local_text_label" stackId="3" startPc="268439473"/>
-<entry endPc="268439680" name="rez_cmp_local_text_value" stackId="4" startPc="268439473"/>
-<entry arg="true" endPc="268439967" name="dc" stackId="1" startPc="268439681"/>
-<entry endPc="268439967" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268439692"/>
-<entry endPc="268439967" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268439692"/>
-<entry endPc="268439967" name="rez_cmp_local_custom_drawable_11939594661139614796" stackId="4" startPc="268439692"/>
-<entry endPc="268439967" name="rez_cmp_local_text_label" stackId="5" startPc="268439692"/>
-<entry endPc="268439967" name="rez_cmp_local_text_value" stackId="6" startPc="268439692"/>
+<entry arg="true" endPc="268436712" name="dc" stackId="1" startPc="268436069"/>
+<entry arg="true" endPc="268436712" name="y" stackId="2" startPc="268436069"/>
+<entry arg="true" endPc="268436712" name="h" stackId="3" startPc="268436069"/>
+<entry arg="true" endPc="268436712" name="w" stackId="4" startPc="268436069"/>
+<entry endPc="268436711" name="colW" stackId="5" startPc="268436072"/>
+<entry endPc="268436711" name="lFont" stackId="6" startPc="268436072"/>
+<entry endPc="268436711" name="vFont" stackId="7" startPc="268436072"/>
+<entry endPc="268436711" name="lH" stackId="8" startPc="268436072"/>
+<entry endPc="268436711" name="vH" stackId="9" startPc="268436072"/>
+<entry endPc="268436711" name="gap" stackId="10" startPc="268436072"/>
+<entry endPc="268436711" name="gTop" stackId="11" startPc="268436072"/>
+<entry endPc="268436711" name="lY" stackId="12" startPc="268436072"/>
+<entry endPc="268436711" name="vY" stackId="13" startPc="268436072"/>
+<entry endPc="268436711" name="delta" stackId="14" startPc="268436072"/>
+<entry endPc="268436711" name="isAhead" stackId="15" startPc="268436072"/>
+<entry arg="true" endPc="268436833" name="dc" stackId="1" startPc="268436713"/>
+<entry arg="true" endPc="268436833" name="y" stackId="2" startPc="268436713"/>
+<entry arg="true" endPc="268436833" name="h" stackId="3" startPc="268436713"/>
+<entry arg="true" endPc="268436833" name="w" stackId="4" startPc="268436713"/>
+<entry arg="true" endPc="268436902" name="dc" stackId="1" startPc="268436834"/>
+<entry arg="true" endPc="268436902" name="y" stackId="2" startPc="268436834"/>
+<entry arg="true" endPc="268436902" name="h" stackId="3" startPc="268436834"/>
+<entry arg="true" endPc="268436902" name="w" stackId="4" startPc="268436834"/>
+<entry arg="true" endPc="268436902" name="fg" stackId="5" startPc="268436834"/>
+<entry endPc="268436901" name="s" stackId="6" startPc="268436837"/>
+<entry arg="true" endPc="268437719" name="info" stackId="1" startPc="268436903"/>
+<entry endPc="268437095" name="sum" stackId="2" startPc="268436944"/>
+<entry endPc="268437095" name="count" stackId="3" startPc="268436944"/>
+<entry endPc="268437046" name="i" stackId="4" startPc="268436997"/>
+<entry endPc="268437718" name="lapCount" stackId="5" startPc="268436906"/>
+<entry endPc="268437718" name="lapDist" stackId="6" startPc="268436906"/>
+<entry endPc="268437718" name="lapTime" stackId="7" startPc="268436906"/>
+<entry endPc="268437636" name="stepInfo" stackId="8" startPc="268437406"/>
+<entry endPc="268437633" name="step" stackId="9" startPc="268437424"/>
+<entry endPc="268437630" name="ws" stackId="10" startPc="268437475"/>
+<entry endPc="268437627" name="loF" stackId="11" startPc="268437510"/>
+<entry endPc="268437627" name="hiF" stackId="12" startPc="268437510"/>
+<entry endPc="268437668" name="e" stackId="13" startPc="268437643"/>
+<entry endPc="268437799" name="distKm" stackId="1" startPc="268437723"/>
+<entry endPc="268437799" name="expected" stackId="2" startPc="268437723"/>
+<entry arg="true" endPc="268437937" name="hr" stackId="1" startPc="268437800"/>
+<entry endPc="268437937" name="z" stackId="2" startPc="268437803"/>
+<entry endPc="268437997" name="numLaps" stackId="1" startPc="268437941"/>
+<entry endPc="268437997" name="paces" stackId="2" startPc="268437941"/>
+<entry endPc="268437994" name="i" stackId="3" startPc="268437970"/>
+<entry arg="true" endPc="268438069" name="dc" stackId="1" startPc="268438001"/>
+<entry arg="true" endPc="268438069" name="x" stackId="2" startPc="268438001"/>
+<entry arg="true" endPc="268438069" name="y" stackId="3" startPc="268438001"/>
+<entry arg="true" endPc="268438069" name="font" stackId="4" startPc="268438001"/>
+<entry arg="true" endPc="268438069" name="text" stackId="5" startPc="268438001"/>
+<entry arg="true" endPc="268438069" name="justify" stackId="6" startPc="268438001"/>
+<entry arg="true" endPc="268438108" name="secs" stackId="1" startPc="268438070"/>
+<entry arg="true" endPc="268438135" name="secsPerKm" stackId="1" startPc="268438109"/>
+<entry arg="true" endPc="268438213" name="paceSecs" stackId="1" startPc="268438136"/>
+<entry arg="true" endPc="268438213" name="targetSecs" stackId="2" startPc="268438136"/>
+<entry endPc="268438213" name="diff" stackId="3" startPc="268438139"/>
+<entry endPc="268438371" name="v" stackId="1" startPc="268438217"/>
+<entry arg="true" endPc="268438455" name="dc" stackId="1" startPc="268438373"/>
+<entry arg="true" endPc="268438455" name="text" stackId="2" startPc="268438373"/>
+<entry arg="true" endPc="268438455" name="maxW" stackId="3" startPc="268438373"/>
+<entry arg="true" endPc="268438455" name="isNumber" stackId="4" startPc="268438373"/>
+<entry endPc="268438455" name="fonts" stackId="5" startPc="268438376"/>
+<entry endPc="268438452" name="i" stackId="6" startPc="268438412"/>
+<entry arg="true" endPc="268438640" name="distKm" stackId="1" startPc="268438456"/>
+<entry endPc="268438640" name="fullLaps" stackId="2" startPc="268438459"/>
+<entry endPc="268438640" name="partial" stackId="3" startPc="268438459"/>
+<entry endPc="268438640" name="laps" stackId="4" startPc="268438459"/>
+<entry endPc="268438640" name="maxIdx" stackId="5" startPc="268438459"/>
+<entry endPc="268438640" name="total" stackId="6" startPc="268438459"/>
+<entry endPc="268438640" name="limit" stackId="7" startPc="268438459"/>
+<entry endPc="268438582" name="i" stackId="8" startPc="268438557"/>
+<entry endPc="268438634" name="li" stackId="9" startPc="268438594"/>
+<entry arg="true" endPc="268438791" name="ms" stackId="1" startPc="268438663"/>
+<entry endPc="268438791" name="totalS" stackId="2" startPc="268438666"/>
+<entry endPc="268438791" name="m" stackId="3" startPc="268438666"/>
+<entry endPc="268438791" name="s" stackId="4" startPc="268438666"/>
+<entry endPc="268438759" name="hrs" stackId="5" startPc="268438696"/>
+<entry arg="true" endPc="268439063" name="dc" stackId="1" startPc="268438792"/>
+<entry endPc="268439062" name="w" stackId="2" startPc="268438795"/>
+<entry endPc="268439062" name="h" stackId="3" startPc="268438795"/>
+<entry endPc="268439062" name="bg" stackId="4" startPc="268438795"/>
+<entry endPc="268439062" name="fg" stackId="5" startPc="268438795"/>
+<entry endPc="268439062" name="r1h" stackId="6" startPc="268438795"/>
+<entry endPc="268439062" name="r2h" stackId="7" startPc="268438795"/>
+<entry endPc="268439062" name="r3h" stackId="8" startPc="268438795"/>
+<entry endPc="268439062" name="r4h" stackId="9" startPc="268438795"/>
+<entry endPc="268439062" name="r2y" stackId="10" startPc="268438795"/>
+<entry endPc="268439062" name="r3y" stackId="11" startPc="268438795"/>
+<entry endPc="268439062" name="r4y" stackId="12" startPc="268438795"/>
+<entry arg="true" endPc="268439383" name="dc" stackId="1" startPc="268439163"/>
+<entry endPc="268439383" name="rez_cmp_local_custom_drawable_16187860511068497434" stackId="2" startPc="268439174"/>
+<entry endPc="268439383" name="rez_cmp_local_text_label" stackId="3" startPc="268439174"/>
+<entry endPc="268439383" name="rez_cmp_local_text_value" stackId="4" startPc="268439174"/>
+<entry arg="true" endPc="268439604" name="dc" stackId="1" startPc="268439384"/>
+<entry endPc="268439604" name="rez_cmp_local_custom_drawable_11824933295158922413" stackId="2" startPc="268439395"/>
+<entry endPc="268439604" name="rez_cmp_local_text_label" stackId="3" startPc="268439395"/>
+<entry endPc="268439604" name="rez_cmp_local_text_value" stackId="4" startPc="268439395"/>
+<entry arg="true" endPc="268439823" name="dc" stackId="1" startPc="268439605"/>
+<entry endPc="268439823" name="rez_cmp_local_custom_drawable_16380678501279751870" stackId="2" startPc="268439616"/>
+<entry endPc="268439823" name="rez_cmp_local_text_label" stackId="3" startPc="268439616"/>
+<entry endPc="268439823" name="rez_cmp_local_text_value" stackId="4" startPc="268439616"/>
+<entry arg="true" endPc="268440042" name="dc" stackId="1" startPc="268439824"/>
+<entry endPc="268440042" name="rez_cmp_local_custom_drawable_83741574912206153191" stackId="2" startPc="268439835"/>
+<entry endPc="268440042" name="rez_cmp_local_text_label" stackId="3" startPc="268439835"/>
+<entry endPc="268440042" name="rez_cmp_local_text_value" stackId="4" startPc="268439835"/>
+<entry arg="true" endPc="268440329" name="dc" stackId="1" startPc="268440043"/>
+<entry endPc="268440329" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268440054"/>
+<entry endPc="268440329" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268440054"/>
+<entry endPc="268440329" name="rez_cmp_local_custom_drawable_11939594661139614796" stackId="4" startPc="268440054"/>
+<entry endPc="268440329" name="rez_cmp_local_text_label" stackId="5" startPc="268440054"/>
+<entry endPc="268440329" name="rez_cmp_local_text_value" stackId="6" startPc="268440054"/>
 </localVars>
 <deviceInfo deviceVersion="45fe3cbb0de8ea0a70e12628d2697915f1272301" partNumber="006-B4426-00"/>
 <annotations>
@@ -482,11 +511,11 @@
 <dataEntry label="globals" offset="58" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/Background" offset="134" parentId="globals" symbolId="Background" type="class"/>
 <dataEntry label="globals/gavsRacePacerView" offset="205" parentId="globals" symbolId="gavsRacePacerView" type="class"/>
-<dataEntry label="globals/Rez" offset="555" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/gavsRacePacerApp" offset="608" parentId="globals" symbolId="gavsRacePacerApp" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="697" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="732" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="803" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez" offset="573" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/gavsRacePacerApp" offset="626" parentId="globals" symbolId="gavsRacePacerApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="715" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="750" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="821" parentId="Rez" symbolId="Strings" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
@@ -531,21 +560,21 @@
 <param id="fg"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436713" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;" parent="gavsRacePacerView" startPc="268436069">
+<functionEntry accessMode="private" endPc="268436712" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow2&gt;" parent="gavsRacePacerView" startPc="268436069">
 <param id="dc"/>
 <param id="y"/>
 <param id="h"/>
 <param id="w"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436834" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;" parent="gavsRacePacerView" startPc="268436714">
+<functionEntry accessMode="private" endPc="268436833" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow4&gt;" parent="gavsRacePacerView" startPc="268436713">
 <param id="dc"/>
 <param id="y"/>
 <param id="h"/>
 <param id="w"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436903" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;" parent="gavsRacePacerView" startPc="268436835">
+<functionEntry accessMode="private" endPc="268436902" name="&lt;globals/gavsRacePacerView/&lt;&gt;drawRow1&gt;" parent="gavsRacePacerView" startPc="268436834">
 <param id="dc"/>
 <param id="y"/>
 <param id="h"/>
@@ -553,25 +582,25 @@
 <param id="fg"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437415" name="compute" parent="gavsRacePacerView" startPc="268436904">
+<functionEntry accessMode="public" endPc="268437719" name="compute" parent="gavsRacePacerView" startPc="268436903">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437464" name="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;" parent="gavsRacePacerView" startPc="268437416">
+<functionEntry accessMode="private" endPc="268437799" name="&lt;globals/gavsRacePacerView/&lt;&gt;computeDelta&gt;" parent="gavsRacePacerView" startPc="268437720">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437602" name="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;" parent="gavsRacePacerView" startPc="268437465">
+<functionEntry accessMode="private" endPc="268437937" name="&lt;globals/gavsRacePacerView/&lt;&gt;hrZoneColor&gt;" parent="gavsRacePacerView" startPc="268437800">
 <param id="hr"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437662" name="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;" parent="gavsRacePacerView" startPc="268437603">
+<functionEntry accessMode="private" endPc="268437997" name="&lt;globals/gavsRacePacerView/&lt;&gt;computeLapPaces&gt;" parent="gavsRacePacerView" startPc="268437938">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437665" name="onLayout" parent="gavsRacePacerView" startPc="268437663">
+<functionEntry accessMode="public" endPc="268438000" name="onLayout" parent="gavsRacePacerView" startPc="268437998">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437734" name="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;" parent="gavsRacePacerView" startPc="268437666">
+<functionEntry accessMode="private" endPc="268438069" name="&lt;globals/gavsRacePacerView/&lt;&gt;boldText&gt;" parent="gavsRacePacerView" startPc="268438001">
 <param id="dc"/>
 <param id="x"/>
 <param id="y"/>
@@ -580,37 +609,41 @@
 <param id="justify"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437773" name="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;" parent="gavsRacePacerView" startPc="268437735">
+<functionEntry accessMode="private" endPc="268438108" name="&lt;globals/gavsRacePacerView/&lt;&gt;fmtSecs&gt;" parent="gavsRacePacerView" startPc="268438070">
 <param id="secs"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437851" name="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;" parent="gavsRacePacerView" startPc="268437774">
+<functionEntry accessMode="private" endPc="268438135" name="&lt;globals/gavsRacePacerView/&lt;&gt;garminRoundPace&gt;" parent="gavsRacePacerView" startPc="268438109">
+<param id="secsPerKm"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="private" endPc="268438213" name="&lt;globals/gavsRacePacerView/&lt;&gt;paceZoneColor&gt;" parent="gavsRacePacerView" startPc="268438136">
 <param id="paceSecs"/>
 <param id="targetSecs"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438010" name="loadSettings" parent="gavsRacePacerView" startPc="268437852">
+<functionEntry accessMode="public" endPc="268438372" name="loadSettings" parent="gavsRacePacerView" startPc="268438214">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268438093" name="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;" parent="gavsRacePacerView" startPc="268438011">
+<functionEntry accessMode="private" endPc="268438455" name="&lt;globals/gavsRacePacerView/&lt;&gt;pickFitFont&gt;" parent="gavsRacePacerView" startPc="268438373">
 <param id="dc"/>
 <param id="text"/>
 <param id="maxW"/>
 <param id="isNumber"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268438278" name="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;" parent="gavsRacePacerView" startPc="268438094">
+<functionEntry accessMode="private" endPc="268438640" name="&lt;globals/gavsRacePacerView/&lt;&gt;targetTimeForDist&gt;" parent="gavsRacePacerView" startPc="268438456">
 <param id="distKm"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438300" name="initialize" parent="gavsRacePacerView" startPc="268438279">
+<functionEntry accessMode="public" endPc="268438662" name="initialize" parent="gavsRacePacerView" startPc="268438641">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268438429" name="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;" parent="gavsRacePacerView" startPc="268438301">
+<functionEntry accessMode="private" endPc="268438791" name="&lt;globals/gavsRacePacerView/&lt;&gt;fmtTime&gt;" parent="gavsRacePacerView" startPc="268438663">
 <param id="ms"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438701" name="onUpdate" parent="gavsRacePacerView" startPc="268438430">
+<functionEntry accessMode="public" endPc="268439063" name="onUpdate" parent="gavsRacePacerView" startPc="268438792">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
@@ -623,40 +656,40 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438704" name="onStart" parent="gavsRacePacerApp" startPc="268438702">
+<functionEntry accessMode="public" endPc="268439066" name="onStart" parent="gavsRacePacerApp" startPc="268439064">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438742" name="onSettingsChanged" parent="gavsRacePacerApp" startPc="268438705">
+<functionEntry accessMode="public" endPc="268439104" name="onSettingsChanged" parent="gavsRacePacerApp" startPc="268439067">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438782" name="getInitialView" parent="gavsRacePacerApp" startPc="268438743">
+<functionEntry accessMode="public" endPc="268439144" name="getInitialView" parent="gavsRacePacerApp" startPc="268439105">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438797" name="initialize" parent="gavsRacePacerApp" startPc="268438783">
+<functionEntry accessMode="public" endPc="268439159" name="initialize" parent="gavsRacePacerApp" startPc="268439145">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438800" name="onStop" parent="gavsRacePacerApp" startPc="268438798">
+<functionEntry accessMode="public" endPc="268439162" name="onStop" parent="gavsRacePacerApp" startPc="268439160">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439021" name="BottomRightLayout" parent="Layouts" startPc="268438801">
+<functionEntry accessMode="public" endPc="268439383" name="BottomRightLayout" parent="Layouts" startPc="268439163">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439242" name="TopRightLayout" parent="Layouts" startPc="268439022">
+<functionEntry accessMode="public" endPc="268439604" name="TopRightLayout" parent="Layouts" startPc="268439384">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439461" name="BottomLeftLayout" parent="Layouts" startPc="268439243">
+<functionEntry accessMode="public" endPc="268439823" name="BottomLeftLayout" parent="Layouts" startPc="268439605">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439680" name="TopLeftLayout" parent="Layouts" startPc="268439462">
+<functionEntry accessMode="public" endPc="268440042" name="TopLeftLayout" parent="Layouts" startPc="268439824">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439967" name="MainLayout" parent="Layouts" startPc="268439681">
+<functionEntry accessMode="public" endPc="268440329" name="MainLayout" parent="Layouts" startPc="268440043">
 <param id="dc"/>
 <documentation/>
 </functionEntry>

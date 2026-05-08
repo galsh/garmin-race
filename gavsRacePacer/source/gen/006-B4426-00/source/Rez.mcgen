@@ -67,7 +67,6 @@ module Rez {
 
     module Strings {
         (:initialized) var TargetPaceTitle as ResourceId;
-        (:initialized) var PacingTitle as ResourceId;
         (:initialized) var RaceDistanceTitle as ResourceId;
         (:initialized) var AppName as ResourceId;
     } // Strings

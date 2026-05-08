@@ -134,33 +134,6 @@
     "configMin" : null,
     "configMax" : null,
     "configMaxLength" : null
-  }, {
-    "key" : "pacing",
-    "valueType" : "number",
-    "defaultValue" : 1,
-    "configTitle" : "PacingTitle",
-    "configPrompt" : null,
-    "configType" : "list",
-    "configError" : null,
-    "configHelpUrl" : null,
-    "configReadonly" : false,
-    "configRequired" : false,
-    "configOptions" : [ {
-      "display" : "$literal35$",
-      "value" : 0
-    }, {
-      "display" : "$literal36$",
-      "value" : 1
-    }, {
-      "display" : "$literal37$",
-      "value" : 2
-    }, {
-      "display" : "$literal38$",
-      "value" : 3
-    } ],
-    "configMin" : null,
-    "configMax" : null,
-    "configMaxLength" : null
   } ],
   "supportsLiveValidation" : false,
   "languages" : {
@@ -170,14 +143,11 @@
       "$literal26$" : "10:00",
       "$literal0$" : "3:30",
       "$literal16$" : "7:30",
-      "$literal38$" : "Neg 3%",
       "$literal24$" : "9:30",
       "$literal2$" : "4:00",
       "$literal14$" : "7:00",
-      "$literal36$" : "Neg 1%",
       "$literal4$" : "4:30",
       "$literal28$" : "3 km",
-      "PacingTitle" : "Pacing Strategy",
       "$literal6$" : "5:00",
       "$literal18$" : "8:00",
       "$literal8$" : "5:30",
@@ -191,11 +161,9 @@
       "RaceDistanceTitle" : "Race Distance",
       "$literal1$" : "3:45",
       "$literal15$" : "7:15",
-      "$literal37$" : "Neg 2%",
       "$literal27$" : "1 km",
       "$literal3$" : "4:15",
       "$literal13$" : "6:45",
-      "$literal35$" : "Even",
       "$literal25$" : "9:45",
       "$literal5$" : "4:45",
       "$literal19$" : "8:15",
