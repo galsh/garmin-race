@@ -20,7 +20,6 @@ class gavsRacePacerView extends WatchUi.DataField {
     private var mLapPaceSecs as Number = 0;
     private var mElapsedMs as Number = 0;
     private var mDistanceM as Float = 0.0f;
-    private var mLastLapCount as Number = 0;
     private var mLapStartDistanceM as Float = 0.0f;
     private var mLapStartTimeMs as Number = 0;
     private var mHeartRate as Number = 0;
@@ -33,6 +32,8 @@ class gavsRacePacerView extends WatchUi.DataField {
     private var mRunStartDistM         as Float   = 0.0f;
     private var mRunTotalMs            as Number  = 0;
     private var mRunTotalDistM         as Float   = 0.0f;
+    private var mFrozenDelta           as Number? = null;
+    private var mNextStepIsRecovery     as Boolean = false;
 
     function initialize() {
         DataField.initialize();
@@ -94,6 +95,12 @@ class gavsRacePacerView extends WatchUi.DataField {
     // Data field callbacks
     // -----------------------------------------------------------------------
 
+    function onTimerLap() as Void {
+        mLapStartDistanceM = mDistanceM;
+        mLapStartTimeMs    = mElapsedMs;
+        mLapPaceSecs       = 0;
+    }
+
     function onLayout(dc as Graphics.Dc) as Void {}
 
     function compute(info as Activity.Info) as Void {
@@ -112,21 +119,16 @@ class gavsRacePacerView extends WatchUi.DataField {
         if ((info has :elapsedDistance)&& info.elapsedDistance!= null) { mDistanceM  = info.elapsedDistance as Float;  }
         if ((info has :currentHeartRate)&&info.currentHeartRate!=null) { mHeartRate  = info.currentHeartRate as Number;}
 
-        var lapCount = ((info has :lapCount) && info.lapCount != null) ? (info.lapCount as Number) : 0;
-        if (lapCount != mLastLapCount) {
-            mLastLapCount = lapCount;
-            mLapStartDistanceM = mDistanceM;
-            mLapStartTimeMs = mElapsedMs;
-        }
-        var lapDist = mDistanceM - mLapStartDistanceM;
-        var lapTime = mElapsedMs - mLapStartTimeMs;
-        if (lapDist > 10.0f && lapTime > 0) {
-            mLapPaceSecs = (lapTime.toFloat() / lapDist + 0.5f).toNumber();
+        var lapDistM  = mDistanceM - mLapStartDistanceM;
+        var lapTimeMs = mElapsedMs - mLapStartTimeMs;
+        if (lapDistM > 10.0f && lapTimeMs > 0) {
+            mLapPaceSecs = garminRoundPace((lapTimeMs.toFloat() / lapDistM + 0.5f).toNumber());
         } else { mLapPaceSecs = 0; }
 
         mWorkoutTargetPaceLow = 0;
         mStepIsRun = true;
         mStepDurationM = 0.0f;
+        mNextStepIsRecovery = false;
         try {
             var stepInfo = Activity.getCurrentWorkoutStep();
             if (stepInfo != null) {
@@ -151,6 +153,10 @@ class gavsRacePacerView extends WatchUi.DataField {
                     }
                 }
             }
+            var nextInfo = Activity.getNextWorkoutStep();
+            if (nextInfo != null && !(nextInfo.step instanceof Activity.WorkoutIntervalStep)) {
+                mNextStepIsRecovery = (nextInfo.intensity == Activity.WORKOUT_INTENSITY_REST);
+            }
         } catch (e instanceof Lang.Exception) {}
 
         if (mWorkoutTargetPaceLow == 0) {
@@ -162,6 +168,7 @@ class gavsRacePacerView extends WatchUi.DataField {
                 mRunStartMs    = mElapsedMs;
                 mRunStartDistM = mDistanceM;
             } else {
+                mFrozenDelta    = computeDelta();
                 mRunTotalMs    += mElapsedMs - mRunStartMs;
                 mRunTotalDistM += mDistanceM - mRunStartDistM;
             }
@@ -238,32 +245,20 @@ class gavsRacePacerView extends WatchUi.DataField {
             (mCurrentPaceSecs > 0) ? fmtPace(mCurrentPaceSecs) : "--:--",
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
-        // AHEAD / BEHIND (run step) or REMAINING segment distance (non-run step)
-        if (mStepIsRun) {
-            var delta   = computeDelta();
-            var isAhead = (delta >= 0);
-            dc.setColor(isAhead ? Graphics.COLOR_GREEN : Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
-            dc.fillRectangle(colW * 2, y, colW, h);
-            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(colW * 2 + colW / 2, lY, lFont,
-                isAhead ? "AHEAD" : "BEHIND",
-                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-            boldText(dc, colW * 2 + colW / 2, vY, vFont,
-                fmtSecs(isAhead ? delta : -delta),
-                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-        } else {
-            var lapDist  = mDistanceM - mLapStartDistanceM;
-            var remainM  = mStepDurationM - lapDist;
-            var remainKm = (mStepDurationM > 0.0f && remainM >= 0.0f) ? remainM / 1000.0f : -1.0f;
-            dc.setColor(0x9B9EA2, Graphics.COLOR_TRANSPARENT);
-            dc.fillRectangle(colW * 2, y, colW, h);
-            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(colW * 2 + colW / 2, lY, lFont, "REMAIN",
-                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-            boldText(dc, colW * 2 + colW / 2, vY, vFont,
-                (remainKm >= 0.0f) ? remainKm.format("%.2f") : "--",
-                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-        }
+        // AHEAD / BEHIND — label becomes PAUSED on rest step, value frozen at end of last run
+        var nonRun  = isNonRunStep();
+        var fd      = mFrozenDelta;
+        var delta   = nonRun ? (fd != null ? fd as Number : 0) : computeDelta();
+        var isAhead = (delta >= 0);
+        dc.setColor(isAhead ? Graphics.COLOR_GREEN : Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
+        dc.fillRectangle(colW * 2, y, colW, h);
+        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(colW * 2 + colW / 2, lY, lFont,
+            nonRun ? "PAUSED" : (isAhead ? "AHEAD" : "BEHIND"),
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        boldText(dc, colW * 2 + colW / 2, vY, vFont,
+            (nonRun && fd == null) ? "--:--" : fmtSecs(isAhead ? delta : -delta),
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawLine(colW,     y, colW,     y + h);
@@ -288,10 +283,21 @@ class gavsRacePacerView extends WatchUi.DataField {
         dc.drawText(colW / 2, lY, lFont, "TIMER",
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
-        boldText(dc, colW + colW / 2, vY, vFont, (mDistanceM / 1000.0f).format("%.2f"),
-            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
-        dc.drawText(colW + colW / 2, lY, lFont, "DIST",
-            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        if (isNonRunStep() || mNextStepIsRecovery) {
+            var lapDist  = mDistanceM - mLapStartDistanceM;
+            var remainM  = mStepDurationM - lapDist;
+            var remainKm = (mStepDurationM > 0.0f && remainM >= 0.0f) ? remainM / 1000.0f : -1.0f;
+            boldText(dc, colW + colW / 2, vY, vFont,
+                (remainKm >= 0.0f) ? remainKm.format("%.2f") : "--",
+                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+            dc.drawText(colW + colW / 2, lY, lFont, "R. DIST",
+                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        } else {
+            boldText(dc, colW + colW / 2, vY, vFont, (mDistanceM / 1000.0f).format("%.2f"),
+                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+            dc.drawText(colW + colW / 2, lY, lFont, "DIST",
+                Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        }
 
         dc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_TRANSPARENT);
         dc.drawLine(colW, y, colW, y + h);
@@ -310,6 +316,10 @@ class gavsRacePacerView extends WatchUi.DataField {
     // -----------------------------------------------------------------------
     // Helpers
     // -----------------------------------------------------------------------
+
+    private function isNonRunStep() as Boolean {
+        return !mStepIsRun;
+    }
 
     private function computeDelta() as Number {
         var runMs     = mRunTotalMs + (mElapsedMs - mRunStartMs);
