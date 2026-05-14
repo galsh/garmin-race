@@ -341,8 +341,9 @@ class gavsRacePacerView extends WatchUi.DataField {
     private function paceZoneColor(paceSecs as Number, targetSecs as Number) as Graphics.ColorType {
         if (paceSecs == 0) { return 0x00B050; }
         if (mWorkoutTargetPaceLow > 0 && mWorkoutTargetPaceHigh > 0) {
-            if (paceSecs < mWorkoutTargetPaceLow)  { return 0x1E90FF; } // faster than zone
-            if (paceSecs > mWorkoutTargetPaceHigh) { return 0xFF8C00; } // slower than zone
+            if (paceSecs < mWorkoutTargetPaceLow - 15) { return 0xFF8C00; } // way too fast
+            if (paceSecs < mWorkoutTargetPaceLow)      { return 0x1E90FF; } // faster than zone
+            if (paceSecs > mWorkoutTargetPaceHigh)     { return 0xFF8C00; } // slower than zone
             return 0x00B050;
         }
         if (targetSecs == 0) { return 0x00B050; }
