@@ -24,7 +24,8 @@ class gavsRacePacerView extends WatchUi.DataField {
     private var mLapStartTimeMs as Number = 0;
     private var mHeartRate as Number = 0;
     private var mCurrentLapTargetSecs as Number = 360; // target for the km we're currently in
-    private var mWorkoutTargetPaceLow  as Number = 0;  // fast end (sec/km) from workout step; 0 = none
+    private var mWorkoutTargetPaceLow  as Number = 0;  // fast end (sec/km) floored to 5; 0 = none
+    private var mWorkoutTargetPaceHigh as Number = 0;  // slow end (sec/km) ceiled to 5; 0 = none
     private var mStepIsRun             as Boolean = true;
     private var mStepDurationM         as Float   = 0.0f; // step target distance (m), 0 if not distance-based
     private var mPrevStepIsRun         as Boolean = true;
@@ -32,6 +33,7 @@ class gavsRacePacerView extends WatchUi.DataField {
     private var mRunStartDistM         as Float   = 0.0f;
     private var mRunTotalMs            as Number  = 0;
     private var mRunTotalDistM         as Float   = 0.0f;
+    private var mStepStartDistM        as Float   = 0.0f;
     private var mFrozenDelta           as Number? = null;
     private var mNextStepIsRecovery     as Boolean = false;
 
@@ -122,10 +124,11 @@ class gavsRacePacerView extends WatchUi.DataField {
         var lapDistM  = mDistanceM - mLapStartDistanceM;
         var lapTimeMs = mElapsedMs - mLapStartTimeMs;
         if (lapDistM > 10.0f && lapTimeMs > 0) {
-            mLapPaceSecs = garminRoundPace((lapTimeMs.toFloat() / lapDistM + 0.5f).toNumber());
+            mLapPaceSecs = (lapTimeMs.toFloat() / lapDistM + 0.5f).toNumber();
         } else { mLapPaceSecs = 0; }
 
-        mWorkoutTargetPaceLow = 0;
+        mWorkoutTargetPaceLow  = 0;
+        mWorkoutTargetPaceHigh = 0;
         mStepIsRun = true;
         mStepDurationM = 0.0f;
         mNextStepIsRecovery = false;
@@ -147,8 +150,11 @@ class gavsRacePacerView extends WatchUi.DataField {
                         var loF = ws.targetValueLow as Float;
                         var hiF = ws.targetValueHigh as Float;
                         if (loF > 0.001f && hiF > 0.001f) {
-                            mWorkoutTargetPaceLow = garminRoundPace((1000.0f / hiF + 0.5f).toNumber());
-                            mCurrentLapTargetSecs = ((1000.0f / loF + 1000.0f / hiF) / 2.0f + 0.5f).toNumber();
+                            var fastRaw = (1000.0f / hiF).toNumber();
+                            var slowRaw = (1000.0f / loF).toNumber();
+                            mWorkoutTargetPaceLow  = (fastRaw / 5) * 5;
+                            mWorkoutTargetPaceHigh = ((slowRaw + 4) / 5) * 5;
+                            mCurrentLapTargetSecs  = ((1000.0f / loF + 1000.0f / hiF) / 2.0f + 0.5f).toNumber();
                         }
                     }
                 }
@@ -164,6 +170,7 @@ class gavsRacePacerView extends WatchUi.DataField {
         }
 
         if (mStepIsRun != mPrevStepIsRun) {
+            mStepStartDistM = mDistanceM;
             if (mStepIsRun) {
                 mRunStartMs    = mElapsedMs;
                 mRunStartDistM = mDistanceM;
@@ -284,7 +291,7 @@ class gavsRacePacerView extends WatchUi.DataField {
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
         if (isNonRunStep() || mNextStepIsRecovery) {
-            var lapDist  = mDistanceM - mLapStartDistanceM;
+            var lapDist  = mDistanceM - mStepStartDistM;
             var remainM  = mStepDurationM - lapDist;
             var remainKm = (mStepDurationM > 0.0f && remainM >= 0.0f) ? remainM / 1000.0f : -1.0f;
             boldText(dc, colW + colW / 2, vY, vFont,
@@ -332,11 +339,17 @@ class gavsRacePacerView extends WatchUi.DataField {
 
     // Colour for PACE / LAP columns relative to target.
     private function paceZoneColor(paceSecs as Number, targetSecs as Number) as Graphics.ColorType {
-        if (paceSecs == 0 || targetSecs == 0) { return 0x00B050; }
+        if (paceSecs == 0) { return 0x00B050; }
+        if (mWorkoutTargetPaceLow > 0 && mWorkoutTargetPaceHigh > 0) {
+            if (paceSecs < mWorkoutTargetPaceLow)  { return 0x1E90FF; } // faster than zone
+            if (paceSecs > mWorkoutTargetPaceHigh) { return 0xFF8C00; } // slower than zone
+            return 0x00B050;
+        }
+        if (targetSecs == 0) { return 0x00B050; }
         var diff = paceSecs - targetSecs;
-        if (diff > 15 || diff < -30) { return 0xFF8C00; } // orange: way off
-        if (diff < -15)              { return 0x1E90FF; } // blue: slightly faster
-        return 0x00B050;                                   // green: on pace
+        if (diff > 15 || diff < -30) { return 0xFF8C00; }
+        if (diff < -15)              { return 0x1E90FF; }
+        return 0x00B050;
     }
 
     private function hrZoneColor(hr as Number) as Number {
